@@ -16,7 +16,7 @@ public class Person {
 		}
 		System.out.println("I have "+hobbies.length+"hobbies");
 		age++;
-		name=name+"123";
+		name=name+"asdfjk";
 		System.out.println("test in"+age);
 	}
 	
