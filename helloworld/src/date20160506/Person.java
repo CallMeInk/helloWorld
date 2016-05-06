@@ -37,7 +37,7 @@ public class Person {
 	
 	/*-----------------------------------*/
 	public static void main(String[] args) {
-		Integer age=new Integer(2);
+		Integer age=new Integer(3);
 		Person person = new Person();
 		String name="yukai";
 		//string和integer没变，后面的test class变了
