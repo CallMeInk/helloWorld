@@ -2,7 +2,7 @@ package date20160509;
 
 public abstract class AbstractFather {
 
-	private String name = "修改了这里！！！";
+	private String name = "123";
 	
 	public String getName() {
 		return name;
