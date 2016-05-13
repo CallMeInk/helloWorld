@@ -32,8 +32,8 @@ public class Test {
 		
 		func("abc");
 		func(1);
-		func(1.0);
-		func(1.0f);
+		func(2.0);
+		func(2.0f);
 		func(new Object());
 	}
 	
