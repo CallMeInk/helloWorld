@@ -1,3 +1,2 @@
 # helloWorld
-first java test
-just test
+java基础学习代码
